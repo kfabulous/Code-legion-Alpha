@@ -1,4 +1,4 @@
-Code-legion-Alpha
+eachnstructionsnstructionspecificheollowollowode-legion-Alpha
 
 Welcome to the Code-legion-Alpha repository. This project serves as a structured workspace for daily coding practice, technical experiments, and building foundational software components.
 
@@ -21,7 +21,7 @@ Tools: Git, GitHub Languages VS Code,
     ```bash
     cd Code-legion-Alpha/Day1
     ```
-3.  Run the code:** Follow the specific instructions inside each folder's sub-directory.
+3.  Run the code for each: Follow the specific instructions inside each folder's sub-directory.
 
 📈 Future Goals
  Complete a 6-month coding sprint.
